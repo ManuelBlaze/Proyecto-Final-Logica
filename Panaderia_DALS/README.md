@@ -1,0 +1,2 @@
+# Panaderia_DALS
+ MINI PROJECT LOGICAL
